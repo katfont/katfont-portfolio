@@ -131,10 +131,18 @@ body {
 }
 
 .little-text {
-	
+	color: rgb(64, 64, 64);
+	font-size: 12px;
+	font-weight: normal;
 }
 
 img {
-	height: 150px;
-	max-width: auto;
+	max-width: 100%;
+	height: auto;
+}
+
+a, a:visited {
+	color: black;
+	font-style: normal;
+	text-decoration: none;
 }
